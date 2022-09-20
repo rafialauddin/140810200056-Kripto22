@@ -58,7 +58,6 @@ string decrypt(string text, int key) {
             }
         }
 
-        
 
         decrypted += (char)indexdecrypted;
     }
